@@ -1,0 +1,15 @@
+{
+  "name": "demo2",
+  "version": "1.0.0",
+  "description": "Bloc module 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/lost-stranger/simple-http-node-server.git"
+  },
+  "author": "lost-stranger",
+  "license": "ISC"
+}
